@@ -71,11 +71,11 @@ a:hover {
   -o-background-size: auto !important;
   background-size: auto !important;
 }
-
+/*   suppression des lignes horizontales en arriere plan
 .bg-repeat {
   background: repeat;
 }
-
+*/
 .bg-t-edge {
   background: top no-repeat;
 }
