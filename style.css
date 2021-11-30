@@ -96,7 +96,7 @@ a:hover {
 }
 
 .b-parallax {
-  background-attachment: fixed;
+  background-attachment: scroll;
 }
 
 .d-bloc {
@@ -824,7 +824,7 @@ h4 {
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
