@@ -41,4 +41,4 @@ Assurer la cohérence graphique d'un site web
 
 <h2>Site après optimisation</h2>
 
-
+https://ovslash.github.io/OC_P4_Optimiser_un_site_web_existant/
